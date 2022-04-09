@@ -1,0 +1,7 @@
+A nice 43 min video about "Git and Github " helped me get started with git 
+if you feel to brush it up again then watch out the video in 2x , it won't take much time 
+
+
+https://www.youtube.com/watch?v=DVRQoVRzMIY
+
+P.S : And this folder Test_Git is git repo
